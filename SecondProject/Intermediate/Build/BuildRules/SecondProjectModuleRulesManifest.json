@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UnrealEngine4\\LearningUnreal\\SecondProject\\Source\\SecondProject\\SecondProject.Build.cs",
-		"C:\\UnrealEngine4\\LearningUnreal\\SecondProject\\Source\\SecondProject.Target.cs",
-		"C:\\UnrealEngine4\\LearningUnreal\\SecondProject\\Source\\SecondProjectEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.4"
-}

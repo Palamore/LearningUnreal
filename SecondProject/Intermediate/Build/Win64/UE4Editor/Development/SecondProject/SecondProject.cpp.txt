@@ -1,2 +1,0 @@
-C:\UnrealEngine4\LearningUnreal\SecondProject\Intermediate\Build\Win64\UE4Editor\Development\SecondProject\Definitions.SecondProject.h
-C:\UnrealEngine4\LearningUnreal\SecondProject\Source\SecondProject\SecondProject.h
